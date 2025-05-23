@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atanacio Rancillo | Team Leader Portfolio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-white shadow p-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-3xl font-bold text-gray-900">Atanacio Rancillo</h1>
+      <p class="text-lg text-gray-600">Team Leader</p>
+    </div>
+  </header>
+
+  <!-- About -->
+  <section class="max-w-4xl mx-auto px-6 py-10">
+    <h2 class="text-2xl font-semibold text-gray-800 mb-4">Profile</h2>
+    <p class="text-gray-700 leading-relaxed">
+      A dynamic and results-oriented team leader with 8 years of experience in managing and leading diverse teams to successfully meet and exceed organizational goals. Known for creating a collaborative environment, fostering a culture of innovation, and driving continuous improvement. Strong in guiding teams through complex challenges and ensuring high performance, productivity, and morale.
+    </p>
+  </section>
+
+  <!-- Education -->
+  <section class="bg-white py-10 px-6">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-2xl font-semibold text-gray-800 mb-4">Education</h2>
+      <ul class="space-y-4">
+        <li>
+          <strong>BSBA - HRDM</strong>, Liceo de Cagayan University (2025)
+        </li>
+        <li>
+          <strong>Bachelor of Arts in Philosophy</strong>, Saint Peter College Seminary (2009–2011)
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Experience -->
+  <section class="max-w-4xl mx-auto px-6 py-10">
+    <h2 class="text-2xl font-semibold text-gray-800 mb-4">Experience</h2>
+    <div class="space-y-6">
+      <div>
+        <h3 class="font-bold text-lg">Team Leader, Ubiquity Global Philippines (2023–Present)</h3>
+        <ul class="list-disc ml-6 text-gray-700">
+          <li>Track and evaluate performance metrics.</li>
+          <li>Regular check-ins for development and feedback.</li>
+          <li>Oversee onboarding and process improvements.</li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-bold text-lg">Team Leader, Teleperformance Philippines (2018–2023)</h3>
+        <ul class="list-disc ml-6 text-gray-700">
+          <li>Managed day-to-day operations and team development.</li>
+          <li>Empowered members with training and mentoring.</li>
+          <li>Executed engagement strategies to boost morale.</li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-bold text-lg">Team Leader, Support Zebra (2016–2018)</h3>
+        <ul class="list-disc ml-6 text-gray-700">
+          <li>Handled multiple accounts and supervisory roles.</li>
+          <li>Trained new hires and tracked probation progress.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section class="bg-white py-10 px-6">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-2xl font-semibold text-gray-800 mb-4">Skills</h2>
+      <div class="flex flex-wrap gap-4 text-sm text-gray-700">
+        <span class="bg-gray-200 px-3 py-1 rounded-full">Time Management</span>
+        <span class="bg-gray-200 px-3 py-1 rounded-full">Problem Solving</span>
+        <span class="bg-gray-200 px-3 py-1 rounded-full">Communication</span>
+        <span class="bg-gray-200 px-3 py-1 rounded-full">Creativity</span>
+        <span class="bg-gray-200 px-3 py-1 rounded-full">Leadership</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="max-w-4xl mx-auto px-6 py-10">
+    <h2 class="text-2xl font-semibold text-gray-800 mb-4">Contact</h2>
+    <p class="text-gray-700">
+      Phone: <a href="tel:+639922561621" class="text-blue-500 hover:underline">+63 992 256 1621</a><br />
+      Email: <a href="mailto:thazyrancillo@gmail.com" class="text-blue-500 hover:underline">thazyrancillo@gmail.com</a>
+    </p>
+  </section>
+
+  <footer class="bg-gray-100 text-center text-gray-500 py-6">
+    © 2025 Atanacio Rancillo. All rights reserved.
+  </footer>
+
+</body>
+</html>
